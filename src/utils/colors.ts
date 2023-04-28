@@ -1,0 +1,4 @@
+const PRIMARY_COLOR = 'rgb(48,111,199)';
+const SECONDARY_COLOR = 'rgb(234,242,250)';
+
+export {PRIMARY_COLOR, SECONDARY_COLOR};
